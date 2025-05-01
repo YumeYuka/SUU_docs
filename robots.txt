@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://github.com/YumeYuka/Intelligent_docs/sitemap.xml
+Sitemap: https://github.com/YumeYuka/SUU_docs/sitemap.xml
